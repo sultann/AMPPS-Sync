@@ -8,3 +8,8 @@ To Sync your AMPPS project within multiple machine you can follow the steps belo
 ln -s current_www_location location_where_itwas_in_aampps 
 
 again for var directory
+
+ln -s current_var_location location_where_itwas_in_aampps 
+
+
+do the same things on other machines too
